@@ -1,0 +1,55 @@
+{
+  "sectionLoop" : [
+    {
+      "blockH1" : [
+        {
+          "txt-block-h1" : "ECV DEVICE LAB"
+        }
+      ],
+      "txt-blocktext-h1" : "L’ECV fournit un laboratoire portatif
+pour les professionnels et tous ceux
+souhaitant une vérification de leur site Web.",
+      "blockBtn" : [
+        {
+          "txt-btn-active" : "DÉCOUVRIR"
+        }
+      ]
+    },
+    {
+      "blockH2" : [
+        {
+          "txt-block-h2" : "txt-block-h2"
+        }
+      ],
+      "txt-blocktext-h1" : "text",
+    },
+    {
+      "blockH2" : [
+        {
+          "txt-block-h2" : "txt-block-h2"
+        }
+      ],
+      "txt-blocktext-h1" : "text",
+    },
+    {
+      "blockH2" : [
+        {
+          "txt-block-h2" : "txt-block-h2"
+        }
+      ],
+      "txt-blocktext-h1" : "text",
+    },
+    {"blockH2" : [
+        {
+          "txt-block-h2" : "txt-block-h2"
+        }
+      ],
+      "txt-blocktext-h1" : "text",
+      "blockBtn" : [
+        {
+          "txt-btn-active" : "text cta"
+        }
+      ]
+    }
+  ]
+}

@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>01-icons/device/tablet</title>
+    <title>Artboard Copy 2</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M31.7894737,0 L8.21052632,0 C5.88631579,0 4,1.86666667 4,4.16666667 L4,35.8333333 C4,38.1333317 5.88631579,40 8.21052632,40 L31.7894737,40 C34.1136842,40 36,38.1333317 36,35.8333333 L36,4.16666667 C36,1.86666667 34.1136842,0 31.7894737,0 Z M20,38.3333333 C18.6021053,38.3333333 17.4736842,37.2166667 17.4736842,35.8333333 C17.4736842,34.45 18.6021053,33.3333333 20,33.3333333 C21.3978947,33.3333333 22.5263158,34.45 22.5263158,35.8333333 C22.5263158,37.2166667 21.3978947,38.3333333 20,38.3333333 Z M32.6315789,31.6666667 L7.36842105,31.6666667 L7.36842105,5 L32.6315789,5 L32.6315789,31.6666667 Z" id="path-1"></path>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+        <filter x="-14.0%" y="-10.0%" width="128.0%" height="128.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M23.8421053,0 L6.15789474,0 C4.41473684,0 3,1.4 3,3.125 L3,26.875 C3,28.5999988 4.41473684,30 6.15789474,30 L23.8421053,30 C25.5852632,30 27,28.5999988 27,26.875 L27,3.125 C27,1.4 25.5852632,0 23.8421053,0 Z M15,28.75 C13.9515789,28.75 13.1052632,27.9125 13.1052632,26.875 C13.1052632,25.8375 13.9515789,25 15,25 C16.0484211,25 16.8947368,25.8375 16.8947368,26.875 C16.8947368,27.9125 16.0484211,28.75 15,28.75 Z M24.4736842,23.75 L5.52631579,23.75 L5.52631579,3.75 L24.4736842,3.75 L24.4736842,23.75 Z" id="path-3"></path>
     </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="01-icons/device/tablet">
-            <mask id="mask-2" fill="white">
-                <use xlink:href="#path-1"></use>
-            </mask>
-            <use id="Page-1" fill-opacity="0.87" fill="#212121" xlink:href="#path-1"></use>
-            <g id="00-color/neutral-color/dark" mask="url(#mask-2)" fill="#212121">
-                <rect id="Background" x="0" y="0" width="40" height="40"></rect>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-2">
+            <g id="Oval-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFC107" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="01-icons/device/tablet" transform="translate(10.000000, 10.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Page-1" fill-opacity="0.87" fill="#212121" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <g id="00-color/neutral-color/white" mask="url(#mask-4)" fill="#FFFFFF" fill-rule="evenodd">
+                    <rect id="Background" x="0" y="0" width="30" height="30"></rect>
+                </g>
             </g>
         </g>
     </g>

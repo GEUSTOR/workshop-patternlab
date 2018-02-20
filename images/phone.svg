@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>01-icons/device/phone</title>
+    <title>Artboard Copy 3</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M27.3846154,0 L12.6153846,0 C10.0676923,0 8,2.03636364 8,4.54545455 L8,35.4545455 C8,37.9636345 10.0676923,40 12.6153846,40 L27.3846154,40 C29.9323077,40 32,37.9636345 32,35.4545455 L32,4.54545455 C32,2.03636364 29.9323077,0 27.3846154,0 Z M20,38.1818182 C18.4676923,38.1818182 17.2307692,36.9636364 17.2307692,35.4545455 C17.2307692,33.9454545 18.4676923,32.7272727 20,32.7272727 C21.5323077,32.7272727 22.7692308,33.9454545 22.7692308,35.4545455 C22.7692308,36.9636364 21.5323077,38.1818182 20,38.1818182 Z M28.3076923,30.9090909 L11.6923077,30.9090909 L11.6923077,5.45454545 L28.3076923,5.45454545 L28.3076923,30.9090909 Z" id="path-1"></path>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+        <filter x="-14.0%" y="-10.0%" width="128.0%" height="128.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M20.5384615,0 L9.46153846,0 C7.55076923,0 6,1.52727273 6,3.40909091 L6,26.5909091 C6,28.4727259 7.55076923,30 9.46153846,30 L20.5384615,30 C22.4492308,30 24,28.4727259 24,26.5909091 L24,3.40909091 C24,1.52727273 22.4492308,0 20.5384615,0 Z M15,28.6363636 C13.8507692,28.6363636 12.9230769,27.7227273 12.9230769,26.5909091 C12.9230769,25.4590909 13.8507692,24.5454545 15,24.5454545 C16.1492308,24.5454545 17.0769231,25.4590909 17.0769231,26.5909091 C17.0769231,27.7227273 16.1492308,28.6363636 15,28.6363636 Z M21.2307692,23.1818182 L8.76923077,23.1818182 L8.76923077,4.09090909 L21.2307692,4.09090909 L21.2307692,23.1818182 Z" id="path-3"></path>
     </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="01-icons/device/phone">
-            <mask id="mask-2" fill="white">
-                <use xlink:href="#path-1"></use>
-            </mask>
-            <use id="Page-1" fill-opacity="0.87" fill="#212121" xlink:href="#path-1"></use>
-            <g id="00-color/neutral-color/dark" mask="url(#mask-2)" fill="#212121">
-                <rect id="Background" x="0" y="0" width="40" height="40"></rect>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-3">
+            <g id="Oval-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFC107" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="01-icons/device/phone" transform="translate(10.000000, 10.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Page-1" fill-opacity="0.87" fill="#212121" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <g id="00-color/neutral-color/white" mask="url(#mask-4)" fill="#FFFFFF" fill-rule="evenodd">
+                    <rect id="Background" x="0" y="0" width="30" height="30"></rect>
+                </g>
             </g>
         </g>
     </g>

@@ -1,4 +1,10 @@
-c-inp{
+.c-inp{
   width: 512px;
-  border-bottom: 1px
+  border:0;
+  line-height: 1;
+  border-bottom: solid black 2px;
+  height: 60;
+  font-size: 1em;
+  font-weight: 600;
+  color: #000;
 }

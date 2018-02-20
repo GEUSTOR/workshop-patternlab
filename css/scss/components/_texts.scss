@@ -26,3 +26,16 @@ p{
   color: $color-grey;
   font-style: italic;
 }
+
+.text_nav{
+  font-size: 16px;
+  color: $color-blue;
+  font-weight: $font-black;
+  text-transform: uppercase;
+}
+
+.text_heading{
+  font-size: 32px;
+  font-weight: $font-bold;
+  color: $color-blue;
+}

@@ -1,0 +1,24 @@
+{
+  "icon_filter" : [
+    {
+      "src" : "../../images/laptop.svg",
+      "alt" : "laptop icon"
+    },
+    {
+      "src" : "../../images/tablet.svg",
+      "alt" : "tablet icon"
+    },
+    {
+      "src" : "../../images/phone.svg",
+      "alt" : "phone icon"
+    },
+    {
+      "src" : "../../images/ios.svg",
+      "alt" : "ios icon"
+    },
+    {
+      "src" : "../../images/android.svg",
+      "alt" : "android icon"
+    },
+  ]
+}

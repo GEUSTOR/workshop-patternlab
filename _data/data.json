@@ -1,7 +1,18 @@
 {
+<<<<<<< HEAD
     "company" : {
         "name" : "HikeTracker",
         "url" : "http://hiketracker.com"
+=======
+  
+  },
+  "key": "value",
+  "key2": "use this for variables you want to load globally",
+  "img": {
+    "avatar": {
+      "src": "../images/person.svg",
+      "alt": "Avatar"
+>>>>>>> master
     },
     "title" : "Pattern Lab",
     "pageTitle": "Page Title",

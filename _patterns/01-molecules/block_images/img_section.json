@@ -1,0 +1,23 @@
+{"img_section" : [
+  {
+    "src" : "../../images/welcome.svg",
+    "alt" : "laptop icon"
+  },
+  {
+    "src" : "../../images/for-everybody.svg",
+    "alt" : "tablet icon"
+  },
+  {
+    "src" : "../../images/effective-strong.svg",
+    "alt" : "phone icon"
+  },
+  {
+    "src" : "../../images/share.svg",
+    "alt" : "ios icon"
+  },
+  {
+    "src" : "../../images/sucess.svg",
+    "alt" : "android icon"
+  },
+]
+}

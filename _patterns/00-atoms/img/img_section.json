@@ -1,23 +1,4 @@
 {
-  "blockH1" : [
-    {
-      "txt-block-h1" : "txt-block-h1"
-    }
-  ],
-  "blockH2" : [
-    {
-      "txt-block-h2" : "txt-block-h2"
-    }
-  ],
-  "txt-blocktext-h1" : "text",
-  "blockBtn" : [
-    {
-      "txt-btn-active" : "text cta"
-    }
-  ]
-}
-{
-
   "img_section" : [
     {
       "src" : "../../images/welcome.svg",
@@ -40,4 +21,4 @@
       "alt" : "android icon"
     },
   ]
-  }
+}

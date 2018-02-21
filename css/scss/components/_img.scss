@@ -1,3 +1,8 @@
 icon_information{
   color: $color-orange-inactive;
+.logo{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
 }

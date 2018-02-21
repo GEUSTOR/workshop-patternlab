@@ -13,7 +13,10 @@ souhaitant une vérification de leur site Web.",
         {
           "txt-btn-active" : "DÉCOUVRIR"
         }
-      ]
+      ],
+      "img_section":{
+        "src":"../../images/welcome.svg",
+      }
     },
     {
       "blockH2" : [
@@ -22,7 +25,10 @@ souhaitant une vérification de leur site Web.",
         }
       ],
       "txt-blocktext-h1" : "Que vous veniez nous rendre visite ou que nous passions chez vous, ce service est gratuit. En échange, vous pouvez donner un appareil que vous n’utilisez plus (ou utilisé si vous le souhaitez).",
-    },
+
+      "img_section":{
+        "src" : "../../images/for-everybody.svg",
+      }},
     {
       "blockH2" : [
         {
@@ -30,7 +36,9 @@ souhaitant une vérification de leur site Web.",
         }
       ],
       "txt-blocktext-h1" : "Avec Browser Sync, vous pouvez régler votre site Web en temps réel sur tous les appareils. Et vous pouvez avoir des retours d’utilisateurs avec Silverback.",
-    },
+      "img_section":{
+        "src" : "../../images/effective-strong.svg",
+      }},
     {
       "blockH2" : [
         {
@@ -38,7 +46,9 @@ souhaitant une vérification de leur site Web.",
         }
       ],
       "txt-blocktext-h1" : "Vous serez assisté par une équipe d'étudiants qui vous aidera dans ce processus de compatibilité grâce à un rapport en direct et papier.",
-    },
+      "img_section":{
+        "src" : "../../images/share.svg",
+      }},
     {"blockH2" : [
         {
           "txt-block-h2" : "Gratuit"
@@ -49,7 +59,10 @@ souhaitant une vérification de leur site Web.",
         {
           "txt-btn-active" : "FAIRE UN DON"
         }
-      ]
-    }
+
+      ],"img_section":{
+        "src" : "../../images/for-everybody.svg",
+      }},
+
   ]
 }

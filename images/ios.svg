@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>01-icons/os/ios</title>
+    <title>Artboard Copy 4</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M33.2351311,35.0525843 C31.6461849,37.5155056 29.8831543,40 27.2070343,40 C24.6589175,40 23.7441213,38.3586517 20.8051681,38.3586517 C17.6511695,38.3586517 16.7585606,40 14.3418604,40 C11.6640337,40 9.77129324,37.3824719 8.09359811,34.9429213 C5.91754389,31.7483146 4.06747114,26.734382 4.00261619,21.92 C3.95994846,19.3689888 4.43612032,16.8611236 5.65641739,14.7307865 C7.37678025,11.7608989 10.4437367,9.74022472 13.7991269,9.67370787 C16.3660175,9.58382022 18.6513011,11.4714607 20.2197669,11.4714607 C21.721671,11.4714607 24.5275009,9.67370787 27.7071001,9.67370787 C29.0758808,9.67370787 32.7333586,10.0961798 34.996455,13.6449438 C34.8240774,13.7546067 30.6665338,16.1078652 30.6665338,21.3213483 C30.8628054,27.2665169 35.9129578,29.3519101 36,29.3519101 C35.9129578,29.461573 35.237101,32.1923596 33.2351311,35.0525843 M21.9827975,3.01842697 C23.4829948,1.22247191 25.8553206,0 27.9033716,0 C28.0313748,2.33168539 27.2070343,4.61483146 25.7034235,6.27955056 C24.397791,8.07550562 22.1108006,9.43101124 20.0013081,9.16494382 C19.5456167,6.83325843 20.8051681,4.50516854 21.9827975,3.01842697" id="path-1"></path>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+        <filter x="-14.0%" y="-10.0%" width="128.0%" height="128.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M24.9263483,26.2894382 C23.7346387,28.1366292 22.4123657,30 20.4052757,30 C18.4941881,30 17.808091,28.7689888 15.6038761,28.7689888 C13.2383772,28.7689888 12.5689205,30 10.7563953,30 C8.74802529,30 7.32846993,28.0368539 6.07019858,26.207191 C4.43815792,23.811236 3.05060335,20.0507865 3.00196214,16.44 C2.96996134,14.5267416 3.32709024,12.6458427 4.24231304,11.0480899 C5.53258519,8.82067416 7.83280249,7.30516854 10.3493452,7.2552809 C12.2745131,7.18786517 13.9884758,8.60359551 15.1648252,8.60359551 C16.2912532,8.60359551 18.3956256,7.2552809 20.7803251,7.2552809 C21.8069106,7.2552809 24.550019,7.57213483 26.2473412,10.2337079 C26.118058,10.3159551 22.9999003,12.0808989 22.9999003,15.9910112 C23.147104,20.4498876 26.9347184,22.0139326 27,22.0139326 C26.9347184,22.0961798 26.4278257,24.1442697 24.9263483,26.2894382 M16.4870981,2.26382022 C17.6122461,0.916853933 19.3914905,0 20.9275287,0 C21.0235311,1.74876404 20.4052757,3.4611236 19.2775676,4.70966292 C18.2983432,6.05662921 16.5831005,7.07325843 15.0009811,6.87370787 C14.6592126,5.12494382 15.6038761,3.3788764 16.4870981,2.26382022" id="path-3"></path>
     </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="01-icons/os/ios">
-            <mask id="mask-2" fill="white">
-                <use xlink:href="#path-1"></use>
-            </mask>
-            <use id="Fill-3" fill-opacity="0.87" fill="#212121" xlink:href="#path-1"></use>
-            <g id="00-color/neutral-color/dark" mask="url(#mask-2)" fill="#212121">
-                <rect id="Background" x="0" y="0" width="40" height="40"></rect>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-4">
+            <g id="Oval-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFC107" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="01-icons/os/ios" transform="translate(10.000000, 10.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Fill-3" fill-opacity="0.87" fill="#212121" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <g id="00-color/neutral-color/white" mask="url(#mask-4)" fill="#FFFFFF" fill-rule="evenodd">
+                    <rect id="Background" x="0" y="0" width="30" height="30"></rect>
+                </g>
             </g>
         </g>
     </g>

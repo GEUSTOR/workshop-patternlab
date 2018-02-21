@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>01-icons/device/laptop</title>
+    <title>Artboard Copy</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M33.3333333,29.8636364 C35.1666667,29.8636364 36.6666667,28.3295455 36.6666667,26.4545455 L36.6666667,9.40909091 C36.6666667,7.53409091 35.1666667,6 33.3333333,6 L6.66666667,6 C4.83333333,6 3.33333333,7.53409091 3.33333333,9.40909091 L3.33333333,26.4545455 C3.33333333,28.3295455 4.83333333,29.8636364 6.66666667,29.8636364 L0,29.8636364 L0,33.2727273 L40,33.2727273 L40,29.8636364 L33.3333333,29.8636364 Z M6.66666667,9.40909091 L33.3333333,9.40909091 L33.3333333,26.4545455 L6.66666667,26.4545455 L6.66666667,9.40909091 Z" id="path-1"></path>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+        <filter x="-14.0%" y="-10.0%" width="128.0%" height="128.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M25,22.3977273 C26.375,22.3977273 27.5,21.2471591 27.5,19.8409091 L27.5,7.05681818 C27.5,5.65056818 26.375,4.5 25,4.5 L5,4.5 C3.625,4.5 2.5,5.65056818 2.5,7.05681818 L2.5,19.8409091 C2.5,21.2471591 3.625,22.3977273 5,22.3977273 L0,22.3977273 L0,24.9545455 L30,24.9545455 L30,22.3977273 L25,22.3977273 Z M5,7.05681818 L25,7.05681818 L25,19.8409091 L5,19.8409091 L5,7.05681818 Z" id="path-3"></path>
     </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="01-icons/device/laptop">
-            <mask id="mask-2" fill="white">
-                <use xlink:href="#path-1"></use>
-            </mask>
-            <use id="Page-1" fill-opacity="0.87" fill="#212121" xlink:href="#path-1"></use>
-            <g id="00-color/neutral-color/dark" mask="url(#mask-2)" fill="#212121">
-                <rect id="Background" x="0" y="0" width="40" height="40"></rect>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy">
+            <g id="Oval-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFC107" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="01-icons/device/laptop" transform="translate(10.000000, 10.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Page-1" fill-opacity="0.87" fill="#212121" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <g id="00-color/neutral-color/white" mask="url(#mask-4)" fill="#FFFFFF" fill-rule="evenodd">
+                    <rect id="Background" x="0" y="0" width="30" height="30"></rect>
+                </g>
             </g>
         </g>
     </g>
